@@ -1,3 +1,3 @@
 # GitRepo
 <br>
-Author Sehr
+Author - Sehr
